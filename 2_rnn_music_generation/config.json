@@ -1,0 +1,13 @@
+[{
+        "name": "AIYjpkim",
+        "host": "54.180.80.74",
+        "port": 22,
+        "type": "sftp",
+        "username": "ubuntu",
+        "path": "/var/www/html",
+        "autosave": true,
+        "autoDownload": true,
+        "autoDelete": true,
+        "confirm": true,
+        "privateKey": "/Users/kimjongphil/Desktop/aiyjpkim.pem"
+    },
